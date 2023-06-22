@@ -1,0 +1,5 @@
+# ninja log v5
+2705	2995	1685460406620364623	C_project	a1bd9ade773b2b0e
+9	74	1686873901556384968	build.ninja	e56cd9963a682372
+5	5135	1686623752710457031	CMakeFiles/C_project.dir/main.c.o	fed63ca812d1fbf8
+10	812	1686639410296136257	CMakeFiles/C_project.dir/project.c.o	5c475df1ad40ca71
